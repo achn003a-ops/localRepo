@@ -1,1 +1,1 @@
-print("login panel")
+print("admin panel")
